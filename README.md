@@ -4,4 +4,4 @@ trying ssh
 
 ssh working fine now
 
-thi is fomr the main
+this is form the main
