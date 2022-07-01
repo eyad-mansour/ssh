@@ -4,4 +4,4 @@ trying ssh
 
 ssh working fine now
 
-this is form the main
+this is from the main
